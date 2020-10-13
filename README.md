@@ -2,7 +2,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning ...
 
-![Image of typing girl](https://images.app.goo.gl/MuwbM63suFWDXcEn7.gif)
+![](https://previews.123rf.com/images/yopinco/yopinco1801/yopinco180100012/92653895-a-young-business-woman-uses-a-personal-computer-.jpg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindikumarasinghe&show_icons=true&include_all_commits=true&hide=stars,contribs&theme=buefy" alt="My github status" />
