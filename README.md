@@ -10,7 +10,8 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VScode_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Android Studio_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -20,7 +21,8 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
-## &#x1f4c8; GitHub Stats
+
+## &#x1f4c8; GitHub Status
 
 <a href="https://github.com/ravindikumarasinghe/ravindikumarasinghe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindikumarasinghe&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
