@@ -1,7 +1,5 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-<a href="https://dev.to/ravindikumarasinghe">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ravindi Kumarasinghe's DEV Profile" height="30" width="30">
-</a>
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### I’m currently learning ...
@@ -16,6 +14,7 @@
 ![](https://img.shields.io/badge/Editor-VScode_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-AndroidStudio_IDEA-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=fluttert&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=htmlt&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
