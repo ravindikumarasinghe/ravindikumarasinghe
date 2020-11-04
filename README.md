@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I’m currently learning ....
+### I’m currently learning ...
 
 
 ![](https://github.com/ravindikumarasinghe/ravindikumarasinghe/blob/master/Capture.PNG)
