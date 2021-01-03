@@ -5,14 +5,9 @@
 
 ## 🔧 Technologies & Tools
 
+<p align = "center">
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="visual studio" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="android studio" width="26px" src="https://img.icons8.com/fluent/240/000000/android-studio.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
@@ -37,9 +32,6 @@
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
 [<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
@@ -55,7 +47,7 @@
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
-
+</p>
 
 
 ## &#x1f4c8; GitHub Status
