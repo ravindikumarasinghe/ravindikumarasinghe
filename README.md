@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I’m currently learning ...    <img src= "https://i.pinimg.com/originals/11/d8/9f/11d89f8dff700e5fa7b4f1ac159cccff.jpg" style: "border-radius=50%">
+### I’m currently learning ...    <img src= "https://i.pinimg.com/originals/11/d8/9f/11d89f8dff700e5fa7b4f1ac159cccff.jpg" border-radius=50%>
 
 
 ## 🔧 Technologies & Tools
