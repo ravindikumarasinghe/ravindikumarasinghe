@@ -1,5 +1,5 @@
 <p><h1 align="center" style="color:white;"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m currently learning ...</h1></p>
-<img src="https://github.com/ravindikumarasinghe/ravindikumarasinghe/blob/master/anime-code-insect-wallpaper-thumb%20(2).jpg" alt="code.png" align=center/>
+<img align="center" src="https://github.com/ravindikumarasinghe/ravindikumarasinghe/blob/master/anime-code-insect-wallpaper-thumb%20(2).jpg" alt="code.png"/>
 
 ## Languages 
 
