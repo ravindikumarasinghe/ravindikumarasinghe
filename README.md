@@ -3,9 +3,8 @@
 ### I’m currently learning ...
 
 
-## 🔧 Technologies & Tools
-
 ## Languages 
+
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -14,7 +13,7 @@
 ![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=fluttert&logoColor=white&color=2bbc8a)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-Technologies</h3>
+## Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -22,7 +21,7 @@ Technologies</h3>
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 
 
-<h3 align="center">Tools</h3>
+## Tools 
 
 ![Visual Studio](https://img.shields.io/badge/Editor-AndroidStudio_IDEA-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
