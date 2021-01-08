@@ -1,6 +1,4 @@
-<html><body>
-<p style="background-color:#808080;"><h1 align="center" style="color:white;"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m currently learning ...</h1></p></body></html>
-
+<p><h1 align="center" style="color:white;"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m currently learning ...</h1></p>
 
 
 
