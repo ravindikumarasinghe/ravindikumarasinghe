@@ -24,10 +24,12 @@
 
 ## Tools 
 
-![Android Studio](https://img.shields.io/badge/Editor-AndroidStudio_IDEA-informational?style=flat&logo=android-studio&logoColor=white&color=000)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+[![visual_studio](./src/visual_studio.svg)](https://aleen42.github.io/badges/src/visual_studio.svg)
+[![github](./src/github.svg)](https://aleen42.github.io/badges/src/github.svg)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![idea](./src/idea.svg)](https://aleen42.github.io/badges/src/idea.svg)
+[![sublime_text](./src/sublime_text.svg)](https://aleen42.github.io/badges/src/sublime_text.svg)
 
 
 ## &#x1f4c8; GitHub Status
