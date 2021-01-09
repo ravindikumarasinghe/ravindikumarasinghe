@@ -1,5 +1,4 @@
 <p align="center"><h1 align="center" style="color:white;"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m currently learning ...</h1></p>
-<img align="right" src="https://github.com/ravindikumarasinghe/ravindikumarasinghe/blob/master/anime-code-insect-wallpaper-thumb.jpg" alt="code.png"/>
 
 ## Languages 
 
@@ -11,7 +10,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 
-
+<img align="right" src="https://github.com/ravindikumarasinghe/ravindikumarasinghe/blob/master/anime-code-insect-wallpaper-thumb.jpg" alt="code.png"/>
 
 ## Technologies
 
