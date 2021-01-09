@@ -10,7 +10,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 
-<img align="right" src="https://github.com/ravindikumarasinghe/ravindikumarasinghe/blob/master/anime-code-insect-wallpaper-thumb.jpg" alt="code.png"/>
+<img align="right" src="https://github.com/ravindikumarasinghe/ravindikumarasinghe/blob/master/anime-code-insect-wallpaper-thumb%20(2).jpg" alt="code.png"/>
 
 ## Technologies
 
