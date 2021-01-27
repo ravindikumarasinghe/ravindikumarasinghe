@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/ravindikumarasinghe/ravindikumarasinghe/blob/master/anime-code-insect-wallpaper-thumb.jpg" alt="code.png"/>
 
 
-### Languages 
+## Languages 
 
 
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
@@ -14,7 +14,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 
-# Technologies
+## Technologies
 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -23,7 +23,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=000)
 
 
-# Tools 
+## Tools 
 
 ![visual_studio](https://aleen42.github.io/badges/src/visual_studio.svg)
 ![github](https://aleen42.github.io/badges/src/github.svg)
