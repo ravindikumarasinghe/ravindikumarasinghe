@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/ravindikumarasinghe/ravindikumarasinghe/blob/master/anime-code-insect-wallpaper-thumb.jpg" alt="code.png"/>
 
 
-# Languages 
+### Languages 
 
 
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
