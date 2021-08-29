@@ -13,6 +13,7 @@
 ![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=fluttert&logoColor=white&color=000)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![C#](https://img.shields.io/badge/-C#-000?&logo=c%2b%2b&logoColor=00599C)
 
 ## Technologies
 
