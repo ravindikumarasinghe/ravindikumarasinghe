@@ -8,12 +8,11 @@
 
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
 ![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=fluttert&logoColor=white&color=000)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-![C#](https://img.shields.io/badge/-C#-000?&logo=c%2b%2b&logoColor=00599C)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Technologies
 
@@ -27,11 +26,15 @@
 ## Tools 
 
 ![visual_studio](https://aleen42.github.io/badges/src/visual_studio.svg)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![github](https://aleen42.github.io/badges/src/github.svg)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![idea](https://aleen42.github.io/badges/src/idea.svg)
 ![sublime_text](https://aleen42.github.io/badges/src/sublime_text.svg)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ## &#x1f4c8; GitHub Status
