@@ -22,7 +22,7 @@
 ## Tools & Technologies
 
 ![visual_studio](https://badges.aleen42.com/src/visual_studio.svg)
-![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+![GitHub](https://badgen.net/badge/icon/github?icon=github&label)
 ![Visual Studio](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![idea](https://aleen42.github.io/badges/src/idea.svg)
 ![sublime_text](https://aleen42.github.io/badges/src/sublime_text.svg)
