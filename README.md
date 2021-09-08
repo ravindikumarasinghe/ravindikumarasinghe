@@ -11,7 +11,7 @@
 
 ![Java](https://badges.aleen42.com/src/java.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
 ![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter)
 ![SQL](https://img.shields.io/badge/-SQL-000?&style=flat&logo=MySQL&logoColor=4479A1)
 ![Python](https://badges.aleen42.com/src/python.svg)
@@ -19,16 +19,8 @@
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 
 
-## Technologies
 
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=React)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
-
-
-## Tools 
+## Tools & Technologies
 
 ![visual_studio](https://badges.aleen42.com/src/visual_studio.svg)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
@@ -39,7 +31,10 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
+![UiPath](https://img.shields.io/endpoint?label=UiPath&logo=UiPath)
 
 ## &#x1f4c8; GitHub Status
 
