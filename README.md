@@ -10,7 +10,7 @@
 ## Languages 
 
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 ![Java](https://badges.aleen42.com/src/java.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=fluttert&logoColor=white&color=000)
