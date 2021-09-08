@@ -8,10 +8,10 @@
 
 ## Languages 
 
+![Python](https://badges.aleen42.com/src/python.svg)
 ![Java](https://badges.aleen42.com/src/java.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter)
-![Python](https://badges.aleen42.com/src/python.svg)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
