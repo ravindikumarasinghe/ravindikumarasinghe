@@ -10,13 +10,13 @@
 ## Languages 
 
 
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-[![Java](https://badges.aleen42.com/src/java.svg)
-[![JavaScript](https://badges.aleen42.com/src/javascript.svg)
+![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+![Java](https://badges.aleen42.com/src/java.svg)
+![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=fluttert&logoColor=white&color=000)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-[![Python](https://badges.aleen42.com/src/python.svg)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&style=flat&logo=MySQL&logoColor=4479A1)
+![Python](https://badges.aleen42.com/src/python.svg)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 ## Technologies
 
