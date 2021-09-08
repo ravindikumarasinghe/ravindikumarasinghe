@@ -39,6 +39,9 @@
 ## &#x1f4c8; GitHub Status
 
 <p align="center"><a href="https://github.com/ravindikumarasinghe/ravindikumarasinghe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindikumarasinghe&theme=blue-green" />
+</a></p></br></br>
+<p align="center"><a href="https://github.com/ravindikumarasinghe/ravindikumarasinghe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindikumarasinghe&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a></p></br></br>
 <p align="center"><a href="https://github.com/ravindikumarasinghe/ravindikumarasinghe">
