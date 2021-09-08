@@ -11,10 +11,10 @@
 
 ![Java](https://badges.aleen42.com/src/java.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
 ![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter)
 ![Python](https://badges.aleen42.com/src/python.svg)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&style=flat&logo=MySQL&logoColor=4479A1)
 
@@ -22,8 +22,8 @@
 ## Tools & Technologies
 
 ![visual_studio](https://badges.aleen42.com/src/visual_studio.svg)
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-[![Visual Studio](https://badges.aleen42.com/src/visual_studio_code.svg)
+![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+![Visual Studio](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![idea](https://aleen42.github.io/badges/src/idea.svg)
 ![sublime_text](https://aleen42.github.io/badges/src/sublime_text.svg)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
