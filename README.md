@@ -33,7 +33,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
-![UiPath](https://img.shields.io/-Bootstrap-000?label=UiPath&logo=UiPath)
+
 
 ## &#x1f4c8; GitHub Status
 
