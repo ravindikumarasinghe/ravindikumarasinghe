@@ -11,11 +11,11 @@
 
 
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![Java](https://badges.aleen42.com/src/java.svg)
+[![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=fluttert&logoColor=white&color=000)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![Python](https://badges.aleen42.com/src/python.svg)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Technologies
@@ -29,9 +29,9 @@
 
 ## Tools 
 
-![visual_studio](https://aleen42.github.io/badges/src/visual_studio.svg)
+![visual_studio](https://badges.aleen42.com/src/visual_studio.svg)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+[![Visual Studio](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![idea](https://aleen42.github.io/badges/src/idea.svg)
 ![sublime_text](https://aleen42.github.io/badges/src/sublime_text.svg)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
