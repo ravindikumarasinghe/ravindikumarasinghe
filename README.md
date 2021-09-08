@@ -9,22 +9,23 @@
 
 ## Languages 
 
-
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 ![Java](https://badges.aleen42.com/src/java.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
-![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=fluttert&logoColor=white&color=000)
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
+![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter)
 ![SQL](https://img.shields.io/badge/-SQL-000?&style=flat&logo=MySQL&logoColor=4479A1)
 ![Python](https://badges.aleen42.com/src/python.svg)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
+
 
 ## Technologies
 
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=000)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
 
 
 ## Tools 
@@ -34,9 +35,9 @@
 [![Visual Studio](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![idea](https://aleen42.github.io/badges/src/idea.svg)
 ![sublime_text](https://aleen42.github.io/badges/src/sublime_text.svg)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 
