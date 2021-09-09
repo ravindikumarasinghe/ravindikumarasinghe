@@ -12,10 +12,10 @@
 ![Java](https://badges.aleen42.com/src/java.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=43B0BC)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&style=flat&logo=MySQL&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=#075382)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
 
 
