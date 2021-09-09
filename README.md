@@ -3,7 +3,6 @@
 
 <p align="center"><h1 align="center" style="color:white;"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I’m currently learning ...</h1></p></br>
 
-
 <p align="center"><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5857f4110343565.5fefeffb435a8.gif" alt="code.png"/></p>
 
 <!--
