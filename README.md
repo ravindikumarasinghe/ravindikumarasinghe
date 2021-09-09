@@ -32,6 +32,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+-->
+
 
 ## &#x1f4c8; GitHub Status
 
@@ -45,7 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindikumarasinghe&theme=vue-dark&show_icons=true alt="Ravindi's GitHub Status" />
 </a></p>
 
--->
+
 
 
 <!-- Resources for you -->
