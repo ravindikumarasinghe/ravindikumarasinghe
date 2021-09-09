@@ -34,8 +34,7 @@
 
 -->
 
-
-## &#x1f4c8; GitHub Status
+<p align="center"><h1 align="center" style="color:white;"> GitHub Status </h1></p></br>
 
 <p align="center"><a href="https://github.com/ravindikumarasinghe/ravindikumarasinghe">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindikumarasinghe&theme=neon-dark" />
