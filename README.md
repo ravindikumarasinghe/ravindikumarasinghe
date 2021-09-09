@@ -6,6 +6,7 @@
 
 <p align="center"><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5857f4110343565.5fefeffb435a8.gif" alt="code.png"/></p>
 
+<!--
 ## Languages 
 
 ![Python](https://badges.aleen42.com/src/python.svg)
@@ -43,6 +44,8 @@
 <p align="center"><a href="https://github.com/ravindikumarasinghe/ravindikumarasinghe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindikumarasinghe&theme=vue-dark&show_icons=true alt="Ravindi's GitHub Status" />
 </a></p>
+
+-->
 
 
 <!-- Resources for you -->
