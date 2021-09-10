@@ -5,7 +5,7 @@
 
 <p align="center"><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5857f4110343565.5fefeffb435a8.gif" alt="code.png"/></p></br>
 
-<p align="center"><i> &#x1F4A1a; About Me</i></br>
+<p align="center"><i> &#128161; About Me</i></br>
 &#127891; Currently I'm doing my studies as a bachelor of Management Information Systems</br>
 &#129302; Also working as a Robotic Process Automation Developer at Ernest & Young Global Ltd.</br>
 &#127793; I'm passionate on learning technologies & love to learn everything</br></p>
