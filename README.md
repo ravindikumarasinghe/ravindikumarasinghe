@@ -5,11 +5,11 @@
 
 <p align="center"><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5857f4110343565.5fefeffb435a8.gif" alt="code.png"/></p></br>
 
-<p align="center"><i> &#128105;&#8205;&#128187; About Me</i></br>
-&#127891; Currently I'm doing my studies as a bachelor of Management Information Systems</br>
+<p align="center"><h3> &#128105;&#8205;&#128187; About Me</h3></br>
+&#127891; <i>Currently I'm doing my studies as a bachelor of Management Information Systems</br>
 &#129302; Working as a Robotic Process Automation Developer at Ernest & Young Global Ltd.</br>
 &#128161; Like to collobrate in opensource projects</br>
-&#127793; I'm passionate on learning technologies & love to learn everything</br></p>
+&#127793; I'm passionate on learning technologies & love to learn everything</br></i></p>
 
 
 
