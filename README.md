@@ -7,8 +7,8 @@
 
 <p align="center"><h3 align="center"> &#128105;&#8205;&#128187; About Me </h3></p>
 <p align="center">
-&#127891; Currently I'm doing my studies as a bachelor of Management Information Systems</br>
-&#129302; Working as a Robotic Process Automation Developer at Ernest & Young Global Ltd.</br>
+&#127891; Bachelor of Management Information Systems</br>
+&#129302; Worked as a Robotic Process Automation Developer at Ernest & Young Global Ltd.</br>
 &#128161; Like to collobrate in opensource projects</br>
 &#127793; I'm passionate on learning technologies & love to learn everything</p></br>
 
