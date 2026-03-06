@@ -42,7 +42,7 @@
 
 -->
 
-<p align="center"><h1 align="center" style="color:white;"> GitHub Status </h1></p></br>
+<!-- <p align="center"><h1 align="center" style="color:white;"> GitHub Status </h1></p></br>
 
 <p align="center"><a href="https://github.com/ravindikumarasinghe/ravindikumarasinghe">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindikumarasinghe&theme=neon-dark" />
@@ -52,7 +52,7 @@
 </a></p></br></br>
 <p align="center"><a href="https://github.com/ravindikumarasinghe/ravindikumarasinghe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindikumarasinghe&theme=vue-dark&show_icons=true" alt="Ravindi's GitHub Status" />
-</a></p>
+</a></p> -->
 
 
 
