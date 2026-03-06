@@ -9,7 +9,6 @@
 <p align="center">
 &#127891; I’m a QA Engineer with a background in RPA development</br>
 &#128161; I specialize in delivering high-quality software through functional and non-functional testing, API and business logic validation, payment system testing, UI/UX assurance, and risk-based test design.</br>
-&#129302; Worked as a Robotic Process Automation Developer at Ernest & Young Global Ltd.</br>
 &#127891; I am actively building expertise in automation engineering (Selenium & Playwright), CI/CD-integrated QA, and next-generation AI-driven testing systems.</br>
 
 
